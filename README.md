@@ -1,3 +1,5 @@
+<img width="1280" height="1280" alt="Hardware   Pinouts" src="https://github.com/user-attachments/assets/4aa5d6df-13ce-4cdf-9de9-755ee42142b9" />
+
 🎵 ESP32 SD & Bluetooth Audio Player
 
 [TH](ภาษาไทย) | [EN](English)
