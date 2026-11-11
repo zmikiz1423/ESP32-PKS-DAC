@@ -4,8 +4,6 @@
 
 🎵 ESP32 SD & Bluetooth Audio Player
 
-[TH](ภาษาไทย) | [EN](English)
-
 ------------------------------
 
 📌 เกี่ยวกับโปรเจกต์
